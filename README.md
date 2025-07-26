@@ -14,6 +14,7 @@ PIL (Pillow)
 
 🔍 Data
 Dataset organized into train, valid, and test folders, each containing separate subfolders for pizza and icecream images.
+https://www.kaggle.com/datasets/hemendrasr/pizza-vs-ice-cream
 
 🧠 Model Summary
 Custom CNN with 3 convolutional layers + ReLU + MaxPooling
